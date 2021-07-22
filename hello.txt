@@ -13,4 +13,4 @@ hello zzj! hello git!
 hello zzj! hello git!
 hello zzj! hello git!
 hello zzj! hello git!
-hello zzj! hello git!
+hello zzj! hello git! hot-fix test
